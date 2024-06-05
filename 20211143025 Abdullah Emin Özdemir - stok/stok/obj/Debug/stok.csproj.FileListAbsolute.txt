@@ -1,0 +1,14 @@
+C:\Users\toshiba\Desktop\stok\stok\bin\Debug\stok.exe.config
+C:\Users\toshiba\Desktop\stok\stok\bin\Debug\stok.exe
+C:\Users\toshiba\Desktop\stok\stok\bin\Debug\stok.pdb
+C:\Users\toshiba\Desktop\stok\stok\obj\Debug\stok.Form1.resources
+C:\Users\toshiba\Desktop\stok\stok\obj\Debug\stok.Properties.Resources.resources
+C:\Users\toshiba\Desktop\stok\stok\obj\Debug\stok.csproj.GenerateResource.Cache
+C:\Users\toshiba\Desktop\stok\stok\obj\Debug\stok.exe
+C:\Users\toshiba\Desktop\stok\stok\obj\Debug\stok.pdb
+C:\Users\toshiba\Desktop\stok\stok\obj\Debug\stok.Form2.resources
+C:\Users\toshiba\Desktop\stok\stok\obj\Debug\stok.csproj.AssemblyReference.cache
+C:\Users\toshiba\Desktop\stok\stok\obj\Debug\stok.csproj.CoreCompileInputs.cache
+C:\Users\toshiba\Desktop\20211143025 Abdullah Emin Özdemir - stok\stok\bin\Debug\stok.exe.config
+C:\Users\toshiba\Desktop\20211143025 Abdullah Emin Özdemir - stok\stok\obj\Debug\stok.exe
+C:\Users\toshiba\Desktop\20211143025 Abdullah Emin Özdemir - stok\stok\obj\Debug\stok.pdb
